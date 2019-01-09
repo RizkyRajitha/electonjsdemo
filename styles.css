@@ -1,0 +1,8 @@
+body {
+  font-size: 20px;
+  overflow: hidden;
+  border-radius: 5px;
+  background-color: #222233;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
